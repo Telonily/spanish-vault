@@ -1,6 +1,5 @@
 ![[Pasted image 20240903213023.png]]
 
-### Ser
 |             | SER   | ESTAR   | TENER   | QUERER   |
 | ----------- | ----- | ------- | ------- | -------- |
 | yo          | soy   | estoy   | tengo   | quiero   |
@@ -9,6 +8,15 @@
 | nosotros/as | somos | estamos | tenemos | queremos |
 | vosotros/as | sois  | estáis  | tenéis  | queréis  |
 | ellos/ellas | son   | están   | tienen  | quieren  |
+
+|             | IR    |
+| ----------- | ----- |
+| yo          | voy   |
+| tú          | vas   |
+| él/ella     | va    |
+| nosotros/as | vamos |
+| vosotros/as | vais  |
+| ellos/ellas | van   |
 
 1. **yo soy** - я есть
 2. **tú eres** - ты есть
